@@ -1,0 +1,59 @@
+h1 {
+  font-size: 80px;
+  text-align: center;
+  padding:80px;
+  margin: 0;
+  text-decoration: none;
+  color
+
+}
+
+nav {
+  border-right : 3px solid black;
+  width : 250px;
+  float: left;
+}
+
+/*nav ul {
+  list-style: none;
+}*/
+
+article {
+  padding: 15px;
+  float: left;
+  height : 50;
+
+}
+
+/*body{
+  height: 100px;
+  /*background-color:   red;
+  background: url("image/https://www.clipartmax.com/png/middle/18-185348_a-holiday-letter-from-the-head-of-school-christmas-banner-clipart.png";
+}*/
+table, th, tr, td {
+  border: 2px solid;
+  background-color: #f7767f;
+}
+td
+{
+  background-color : #8dafdd;
+}
+table {
+  background-color : #9a9fa5;
+}
+a:link {
+  text-decoration: none;
+}
+a {
+  color: black;
+}
+
+#div_banner {
+  height:288px;
+  width:auto;
+  background-image: url('https://2.bp.blogspot.com/-6l8Sq0POR5Q/XBOoLJQIHWI/AAAAAAAAJ3c/cvnlbA_H64MU60aX6TmrdAdYBgBgFtNkQCK4BGAYYCw/s1600/xmas2018_desktop_nosnow.png');
+}
+body{
+    margin: 10px;
+    width:100%;
+}
